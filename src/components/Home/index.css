@@ -1,0 +1,12 @@
+.person-information {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.person {
+  height: 80vh;
+  width: 40vw;
+  margin-left: 15px;
+}

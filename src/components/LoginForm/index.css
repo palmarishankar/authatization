@@ -1,0 +1,38 @@
+.website-login {
+  height: 40vh;
+  width: 50vw;
+}
+
+.bg-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 120px;
+}
+
+.form-container {
+  background-color: #ffffff;
+  height: 300px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-name {
+  padding: 10px;
+}
+.user-input {
+  margin: 10px;
+}
+.password {
+  padding: 10px;
+}
+.password-input {
+  margin: 10px;
+}
+
+.button {
+  height: 30px;
+  width: 70px;
+  margin-top: 10px;
+}
